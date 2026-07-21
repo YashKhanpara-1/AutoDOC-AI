@@ -4,6 +4,15 @@
 
 AutoDOC AI is a full-stack AI application that automates professional document creation using Large Language Models (LLMs). Users can describe their requirements in natural language, and the AI generates well-structured, editable DOCX documents through a multi-step autonomous workflow.
 
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688?logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![LangGraph](https://img.shields.io/badge/LangGraph-AI-orange)
+![Groq](https://img.shields.io/badge/Groq-LLM-red)
+![Llama 3](https://img.shields.io/badge/Llama%203-70B-purple)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ## ✨ Features
