@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+env
+
+# Generated Files
+output/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+
+# Logs
+*.log
+
+# SQLite
+*.db
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated output
+output/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
